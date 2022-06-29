@@ -1,0 +1,3 @@
+/Users/SSh/algoritm/ShershunovS_HW_1_algoritm_C/cmake-build-debug/CMakeFiles/ShershunovS_HW_1_algoritm_C.dir
+/Users/SSh/algoritm/ShershunovS_HW_1_algoritm_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/SSh/algoritm/ShershunovS_HW_1_algoritm_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
